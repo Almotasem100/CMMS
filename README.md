@@ -1,4 +1,4 @@
-# Computrized Maintainance Management System
+# Computerized Maintenance Management System
 
 We developed a website launched by a server and connected to a sql database to host a simple computarized maintainace management system that can be used into any medical facilities as hospitals or clinics.
 
